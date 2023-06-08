@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "id": "bitwise-and-of-numbers-range",
+      "title": "101. Bitwise AND of Numbers Range",
+      "difficulty": "Medium",
+      "acceptance": "42%",
+      "explanation": "Given 3 positives numbers a, b and c. Return the minimum flips required in some bits of a and b to make ( a OR b == c ). (bitwise OR operation). Flip operation consists of change any single bit 1 to 0 or change the bit 0 to 1 in their binary representation"
+    },
+    {
+      "id": "bitwise-and-of-numbers-range-01",
+      "title": "102. Bitwise AND of Numbers Range",
+      "difficulty": "Medium",
+      "acceptance": "412%",
+      "explanation": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice. You can return the answer in any order."
+    },
+    {
+      "id": "happy-number",
+      "title": "103. Happy Number",
+      "difficulty": "Easy",
+      "acceptance": "54.9%",
+      "explanation": "Given a string s, find the length of the longest substring without repeating characters."
+    },
+    {
+      "id": "remove-linked-list-elements",
+      "title": "104. Remove Linked List Elements",
+      "difficulty": "Hard",
+      "acceptance": "42%",
+      "explanation": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice. You can return the answer in any order."
+    }
+  ],
+  [
+    {
+      "id": "bitwise-and-of-numbers-range-201",
+      "title": "201. Bitwise AND of Numbers Range",
+      "difficulty": "Medium",
+      "acceptance": "42%",
+      "explanation": "Given an integer x, return true if x is a palindrome, and false otherwise."
+    },
+    {
+      "id": "bitwise-and-of-numbers-range-202",
+      "title": "202. Bitwise AND of Numbers Range",
+      "difficulty": "Medium",
+      "acceptance": "412%",
+      "explanation": "Given a string s, find the length of the longest substring without repeating characters."
+    },
+    {
+      "id": "happy-number-203",
+      "title": "203. Happy Number",
+      "difficulty": "Easy",
+      "acceptance": "54.9%",
+      "explanation": "Given a string s, find the length of the longest substring without repeating characters."
+    },
+    {
+      "id": "remove-linked-list-elements-204",
+      "title": "204. Remove Linked List Elements",
+      "difficulty": "Hard",
+      "acceptance": "42%",
+      "explanation": "Given 3 positives numbers a, b and c. Return the minimum flips required in some bits of a and b to make ( a OR b == c ). (bitwise OR operation). Flip operation consists of change any single bit 1 to 0 or change the bit 0 to 1 in their binary representation"
+    }
+  ]
+]
